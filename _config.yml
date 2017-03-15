@@ -11,9 +11,9 @@ title                    : "Bible By Example"
 title_separator          : "-"
 name                     : "Mark (AnonJr) Bussell Jr"
 description              : "An amazing website."
-url                      : https://anonjr.github.io/Bible-By-Example/
+url                      : "https://anonjr.github.io/Bible-By-Example"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : https://github.com/AnonJr/Bible-By-Example
+repository               : "https://github.com/AnonJr/Bible-By-Example"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 breadcrumbs              : true # true, false (default)
 words_per_minute         : 200
@@ -55,7 +55,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               :
+  username               : "@AnonJr"
 facebook:
   username               :
   app_id                 :
