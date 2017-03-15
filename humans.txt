@@ -10,9 +10,10 @@
 # SITE
 	Language   : English
 	Standards  : HTML5, CSS3
-	Components : HTML5Shiv, YUI3 CSS Reset
-	Dev Tools  : Visual Studio Code, Pretzel, Paint.NET
+	Dev Tools  : Visual Studio Code, GitHub, Jekyll, Paint.NET
 
 # SPECIAL THANKS
 	http://browsershots.org/
-    https://github.com/Code52/pretzel/
+    http://jekyllrb.com/
+    https://pages.github.com/
+    https://github.com/mmistakes/minimal-mistakes/
