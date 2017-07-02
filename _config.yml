@@ -13,7 +13,7 @@ name                     : "Mark (AnonJr) Bussell Jr"
 description              : "An amazing website."
 url                      : "https://anonjr.github.io/Bible-By-Example"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : "https://github.com/AnonJr/Bible-By-Example"
+repository               : "AnonJr/Bible-By-Example"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 breadcrumbs              : true # true, false (default)
 words_per_minute         : 200
