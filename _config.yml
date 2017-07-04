@@ -79,7 +79,7 @@ analytics:
 author:
   name             : "Mark (AnonJr) Bussell Jr"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Placeholder for something interesting..."
+  bio              : # "Placeholder for something interesting..."
   location         : "NC, USA"
   email            :
   uri              :
