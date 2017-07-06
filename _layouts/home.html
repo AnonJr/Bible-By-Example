@@ -11,3 +11,5 @@ layout: archive
 {% endfor %}
 
 {% include paginator.html %}
+
+{% if page.share %}{% include social-share.html %}{% endif %}
