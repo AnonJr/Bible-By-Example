@@ -1,11 +1,11 @@
 # main links
 main:
+  - title: "Support"
+    url: /support.html
   - title: "About"
     url: /about.html
   - title: "Archive"
     url: /archive.html
-  - title: "Support"
-    url: /support.html
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
