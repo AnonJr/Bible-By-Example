@@ -8,7 +8,7 @@
 # Site Settings
 locale                   : "en"
 title                    : "Bible By Example"
-title_separator          : " | "
+title_separator          : "|"
 name                     : "Mark (AnonJr) Bussell Jr"
 description              : "A podcast dedicated to covering Christian scripture in a way that enables discussion between believers and non-believers."
 url                      : "http://www.biblebyexample.com"
