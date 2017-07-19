@@ -1,6 +1,6 @@
 ---
-layout: splash
-author_profile: true
+layout: archive
+title: Archive
 permalink: /archive.html
 ---
-# Archive
+See past shows:

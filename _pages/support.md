@@ -1,6 +1,5 @@
 ---
-layout: splash
-author_profile: true
 permalink: /support.html
+title: Support
 ---
-# Support
+Support us on Patreon:
