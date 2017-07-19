@@ -8,8 +8,8 @@
 # Site Settings
 locale                   : "en"
 title                    : "Bible By Example"
-title_separator          : "|"
-name                     : "Mark (AnonJr) Bussell Jr"
+title_separator          : " | "
+name                     : "Bible By Example"
 description              : "A podcast dedicated to covering Christian scripture in a way that enables discussion between believers and non-believers."
 url                      : "http://www.biblebyexample.com"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -97,7 +97,7 @@ author:
   linkedin         :
   pinterest        :
   soundcloud       :
-  stackoverflow    : # "123456/username" (the last part of your profile url, e.g. http://stackoverflow.com/users/123456/username)
+  stackoverflow    : "25163/anonjr" # "123456/username" (the last part of your profile url, e.g. http://stackoverflow.com/users/123456/username)
   steam            :
   tumblr           :
   twitter          : "@AnonJr"
@@ -240,6 +240,7 @@ defaults:
     values:
       layout: single
       author_profile: true
+      author: AnonJr
       read_time: true
       comments: # true
       share: true
@@ -251,6 +252,7 @@ defaults:
     values:
       layout: single
       author_profile: true
+      author: Bible By Example
       read_time: false
       comments: false # true
       share: true

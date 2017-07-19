@@ -13,6 +13,7 @@
   @include clearfix();
   margin-bottom: 1em;
 
+  /* not a fan of the faded sidebar, but may want it back...
   @include breakpoint($large) {
     @include span(2 of 12);
     opacity: 0.75;
@@ -23,6 +24,7 @@
       opacity: 1;
     }
   }
+  */
 
   @include breakpoint($x-large) {
     padding-right: 0;
@@ -78,11 +80,11 @@
 
   img {
     max-width: 110px;
-    border-radius: 50%;
+    /* border-radius: 50%; */
 
     @include breakpoint($large) {
       padding: 5px;
-      border: 1px solid $border-color;
+      /* border: 1px solid $border-color; */
     }
   }
 }
