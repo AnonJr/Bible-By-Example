@@ -75,38 +75,6 @@ analytics:
     tracking_id          :
 
 
-# Site Author
-author:
-  name             : "Mark (AnonJr) Bussell Jr"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : # "Placeholder for something interesting..."
-  location         : "NC, USA"
-  email            :
-  uri              :
-  bitbucket        : "AnonJr"
-  codepen          :
-  dribbble         :
-  flickr           :
-  facebook         :
-  foursquare       :
-  github           : "AnonJr"
-  google_plus      :
-  keybase          :
-  instagram        :
-  lastfm           :
-  linkedin         :
-  pinterest        :
-  soundcloud       :
-  stackoverflow    : "25163/anonjr" # "123456/username" (the last part of your profile url, e.g. http://stackoverflow.com/users/123456/username)
-  steam            :
-  tumblr           :
-  twitter          : "@AnonJr"
-  vine             :
-  weibo            :
-  xing             :
-  youtube          : # "https://youtube.com/c/MichaelRoseDesign"
-
-
 # Reading Files
 include:
   - .htaccess
