@@ -1,0 +1,260 @@
+/* Following are the presentation styles -- edit away! */
+
+/*Primary/Green:   #8AA739; | Secondary/Brown: #6D6152; | Highlight/Blue:  #0195CD; */
+
+html, 
+body {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background: #FFF;
+  color: #000;
+  font-family: 'Segoe UI', sans-serif;
+  font-size: 2em;
+}
+
+h1, 
+h2, 
+h3, 
+h4 {
+  font-size: 100%;
+  font-weight: inherit;
+  margin: 0;
+  padding: 0;
+}
+
+h1 abbr {
+  font-variant: small-caps;
+}
+
+ol,
+ul,
+pre {
+  line-height: 1em;
+  margin: 0;
+}
+
+q {
+  font-style: italic;
+}
+
+blockquote {
+  background: #6D6152;
+  border-bottom: 3px solid black;
+  border-left: 10px solid black;
+  border-right: 3px solid black;
+  border-top: 3px solid black;
+  color: #FFF;
+  font-family: Georgia, serif;
+  font-size: 1em;
+  font-style: italic;
+  margin: 1.2em 0.5em;
+  padding: 0.25em 40px;
+  line-height: 1.25;
+  position: relative;
+}
+
+blockquote p {
+  margin: 0;
+}
+
+blockquote i {
+  font-style: normal;
+}
+
+blockquote b {
+  display: block;
+  font-weight: normal;
+  font-size: smaller;
+  font-style: normal;
+}
+
+blockquote b i {
+  font-style: italic;
+}
+
+kbd {
+  font-weight: bold;
+  font-size: 1em;
+}
+
+sup {
+  font-size: smaller;
+  line-height: 1px;
+}
+
+video {
+   height: 720;
+   margin-left:auto;
+   margin-right:auto;
+   width: 400;
+}
+
+/* Data Tables */
+table.datatable {
+  border-collapse: collapse;
+  border-spacing: 0;
+  margin-left:auto;
+  margin-right:auto;
+  width:90%;
+}
+
+.datatable th {
+  border-bottom: 3px solid black;
+  font-size: 1em;
+  padding: 0.5em;
+  text-align: center;
+  vertical-align: top;
+}
+
+.datatable td {
+  padding: 0.5em;
+  text-align: left;
+  vertical-align: top;
+}
+
+table.datatable caption {
+  text-align: center;
+  vertical-align: top;
+}
+
+:link, 
+:visited {
+  color: #00C;
+  text-decoration: none;
+}
+
+#controls :active {
+  color: #88A !important;
+}
+#controls :focus {
+  outline: 1px dotted #227;
+}
+
+.slide code {padding: 2px 0.25em; font-weight: bold; color: #533;}
+.slide code.bad, code del {color: red;}
+.slide code.old {color: silver;}
+.slide pre {padding: 0; margin: 0.25em 0 0.5em 0.5em; color: #533; font-size: 90%;}
+.slide pre code {display: block;}
+.slide ul {margin-left: 5%; margin-right: 7%; list-style: disc;}
+.slide li:first-of-type {margin-top: 0em; margin-right: 0;}
+.slide li {margin-top: 0.4em; margin-right: 0;}
+.slide ul ul {line-height: 1;}
+.slide ul ul li {margin: .2em; font-size: 65%; list-style: square;}
+.slide img.leader {display: block; margin: 0 auto;}
+
+div#header, 
+div#footer {
+  background: #8AA739;
+  color: #000;
+}
+
+div#header {
+  border-bottom: 2px solid black;
+  font-family: 'Arial Black', sans-serif;
+  font-weight: bold;
+  line-height: 1px;
+}
+
+div#footer {
+  border-top: 2px solid black;
+  font-family: Arial, sans-serif;
+  font-size: 0.5em;
+  font-weight: bold; 
+  padding: 1em 0;
+}
+#footer h1, 
+#footer h2 {
+  display: block;
+  padding: 0 1em;
+}
+#footer h2 {
+  font-style: italic;
+}
+
+div.long {
+  font-size: 0.75em;
+}
+
+.slide h1 {
+  position: absolute; 
+  top: 0; 
+  left: 0; 
+  z-index: 1;
+  margin: 0; 
+  padding: 0.3em 0 0 50px; 
+  white-space: nowrap;
+  font: bold 125%/1em 'Arial Black', sans-serif; 
+  text-transform: capitalize;
+  color: #000;
+}
+
+.slide cite.page { /* not it's intended use, but to add page number reference for the presentation */
+  background: #ccc;
+  border-left: 2px solid black;
+  border-bottom: 2px solid black;
+  font: bold 60%/1em Consolas, 'Courier New', Monospace;
+  height: 2em;
+  margin: 0;
+  padding: 1.2em;
+  position: absolute;
+  right: 0;
+  text-align: center;
+  top: 0;
+  vertical-align: middle;
+  white-space: nowrap;
+}
+
+.slide h3 {
+  font-size: 130%;
+}
+
+div#controls {position: absolute; left: 60%; bottom: 0;
+  width: 40%;
+  text-align: right; font: bold 0.8em Arial, sans-serif;}
+html>body div#controls {position: fixed; padding: 0; top: auto;}
+#controls #navLinks a {padding: 0; margin: 0 0.5em; 
+  border: none; 
+  cursor: pointer;}
+#controls #navList #jumplist {background: #DDD; color: #227;}
+
+#currentSlide {
+  text-align: center;
+  font-size: 0.5em;
+  color: #000;
+}
+
+#stepCounter {
+  bottom: 1em;
+  font-family: Consolas, 'Courier New', Monospace;
+  font-size: small;
+  left: 10px;
+  position: absolute;
+  text-align: left;
+  vertical-align: bottom;
+}
+
+#slide0 {padding-top: 3.5em; font-size: 90%;}
+#slide0 h1 {position: static; margin: 1em 0 0; padding: 0;
+   font: bold 2em 'Arial Black', sans-serif; white-space: normal;
+   color: #000; background: transparent;}
+#slide0 h2 {font: bold italic 1em Arial, sans-serif; margin: 0.25em;}
+#slide0 h3 {margin-top: 1.5em; font-size: 1.5em;}
+#slide0 h4 {margin-top: 0; font-size: 1em;}
+
+ul.urls {list-style: none; display: inline; margin: 0;}
+.urls li {display: inline; margin: 0;}
+.note {display: none;}
+.external {border-bottom: 1px dotted gray;}
+html>body .external {border-bottom: none;}
+.external:after {content: " \274F"; font-size: smaller; color: #77B;}
+
+img.incremental {visibility: hidden;}
+
+/* .slide .current {color: #B02;} - don't want the red highlight on the next incremental item*/
+
+/* diagnostics
+li:after {content: " [" attr(class) "]"; color: #F88;}
+ */

@@ -1,0 +1,64 @@
+/* The following styles size, place, and layer the slide components. Edit these if you want to change the overall slide layout.
+   The commented lines can be uncommented (and modified, if necessary) to help you with the rearrangement process. */
+/* target = 1024x768 */
+
+div#header, 
+div#footer, 
+.slide {
+	left: 0;
+	top: 0;
+	width: 100%;
+}
+
+div#header {
+	height: 2em;
+	top: 0;
+	z-index: 1;
+}
+
+div#footer {
+	bottom: 0;
+	height: 2em;
+	top: auto;
+	z-index: 5;
+}
+
+.slide {
+	list-style: none;
+	padding: 2.8em 4% 4%;
+	top: 0;
+	width: 92%;
+	z-index: 2;
+}
+
+div#controls {
+	bottom: 0;
+	left: 50%;
+	width: 50%;
+	z-index: 100;
+}
+
+div#controls form {
+	text-align: right;
+	width: 100%;
+	margin: 0;
+}
+
+#currentSlide {
+	bottom: 1em;
+	left: 45%;
+	position: absolute;
+	width: 10%;
+	z-index: 10;
+}
+
+html>body #currentSlide {
+	position: fixed;
+}
+
+/*
+div#header {background: #FCC;}
+div#footer {background: #CCF;}
+div#controls {background: #BBD;}
+div#currentSlide {background: #FFC;}
+*/
