@@ -10,8 +10,8 @@
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="513.09515"
-   height="362.41147"
-   viewBox="0 0 481.02668 339.76073"
+   height="335.55692"
+   viewBox="0 0 481.02668 314.58459"
    id="svg2"
    version="1.1"
    inkscape:version="0.91 r13725"
@@ -56,6 +56,16 @@
          style="stop-color:#f1d291"
          id="stop4058" />
     </linearGradient>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath3413">
+      <rect
+         id="rect3415"
+         width="400.09845"
+         height="260.61456"
+         x="37.232647"
+         y="648.48615" />
+    </clipPath>
   </defs>
   <sodipodi:namedview
      id="base"
@@ -65,8 +75,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.2695312"
-     inkscape:cx="197.55358"
-     inkscape:cy="156.10545"
+     inkscape:cx="198.72926"
+     inkscape:cy="147.44076"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -97,12 +107,13 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(-15.486652,-642.32605)">
+     transform="translate(-15.486652,-659.37906)">
     <g
        id="g4919"
        transform="matrix(1.2070875,0,0,1.2070875,-30.194874,-123.40046)"
        inkscape:export-xdpi="5.9871936"
-       inkscape:export-ydpi="5.9871936">
+       inkscape:export-ydpi="5.9871936"
+       clip-path="url(#clipPath3413)">
       <g
          transform="translate(-120.19971,473.74039)"
          inkscape:label="cover"
