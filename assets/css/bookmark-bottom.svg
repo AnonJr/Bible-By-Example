@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="svg3002"
+   sodipodi:docname="bookmark-bottom.svg"
+   viewBox="0 0 174.28102 110.37298"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   width="185.89975"
+   height="117.73118">
+  <defs
+     id="defs3004">
+    <linearGradient
+       id="linearGradient3914"
+       y2="964.35999"
+       gradientUnits="userSpaceOnUse"
+       x2="466.29999"
+       y1="354.35999"
+       x1="472"
+       inkscape:collect="always">
+      <stop
+         id="stop3910"
+         style="stop-color:#cc0000"
+         offset="0" />
+      <stop
+         id="stop3912"
+         style="stop-color:#a40000"
+         offset="1" />
+    </linearGradient>
+    <filter
+       id="filter3918"
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB">
+      <feGaussianBlur
+         id="feGaussianBlur3920"
+         stdDeviation="1.3858157"
+         inkscape:collect="always" />
+    </filter>
+    <filter
+       id="filter3924"
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB">
+      <feGaussianBlur
+         id="feGaussianBlur3926"
+         stdDeviation="2.8170681"
+         inkscape:collect="always" />
+    </filter>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath51">
+      <rect
+         style="fill:#4d4d4d;stroke-width:0.9375"
+         id="rect53"
+         width="247.5"
+         height="139.6875"
+         x="339.685"
+         y="805.13251" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath3378">
+      <rect
+         style="fill:#0000ff;fill-rule:evenodd;stroke:#000000;stroke-width:0.89511812px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         id="rect3380"
+         width="210.97987"
+         height="115.35487"
+         x="355.39987"
+         y="804.72803" />
+    </clipPath>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     bordercolor="#666666"
+     inkscape:pageshadow="2"
+     inkscape:window-y="892"
+     pagecolor="#ffffff"
+     inkscape:window-height="1017"
+     inkscape:window-maximized="1"
+     inkscape:zoom="1"
+     inkscape:window-x="-8"
+     showgrid="false"
+     borderopacity="1.0"
+     inkscape:current-layer="layer1"
+     inkscape:cx="73.567029"
+     inkscape:cy="328.35843"
+     inkscape:window-width="1920"
+     inkscape:pageopacity="0.0"
+     inkscape:document-units="px"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
+  <g
+     id="layer1"
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     transform="translate(-379.159,-804.72803)">
+    <path
+       id="rect3012"
+       style="fill:url(#linearGradient3914)"
+       d="m 413.44,159.94 c -18.994,0 -34.281,15.287 -34.281,34.281 l 0,720.88 87.125,-100 87.156,100 0,-720.88 c 0,-18.994 -15.287,-34.281 -34.281,-34.281 l -105.72,0 z m 54.031,70.031 c 16.108,0 29.156,13.08 29.156,29.188 0,16.108 -13.049,29.156 -29.156,29.156 -16.108,0 -29.156,-13.049 -29.156,-29.156 0,-16.108 13.049,-29.188 29.156,-29.188 z"
+       inkscape:connector-curvature="0"
+       clip-path="url(#clipPath3378)" />
+    <path
+       id="path3916"
+       sodipodi:nodetypes="cccc"
+       style="fill:#ffffff;filter:url(#filter3924)"
+       d="m 473.05,821.14 82.024,87.681 -2.8284,5.6569 -79.196,-93.338 z"
+       inkscape:connector-curvature="0" />
+    <path
+       id="path3922"
+       sodipodi:nodetypes="cccc"
+       style="fill:#730000;filter:url(#filter3918)"
+       transform="matrix(-1,0,0,1,929.14,9.8995)"
+       d="m 468.1,811.24 82.024,87.681 -2.8284,5.6569 -79.196,-93.338 z"
+       inkscape:connector-curvature="0" />
+  </g>
+  <metadata
+     id="metadata34">
+    <rdf:RDF>
+      <cc:Work>
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <cc:license
+           rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/" />
+        <dc:publisher>
+          <cc:Agent
+             rdf:about="http://openclipart.org/">
+            <dc:title>Openclipart</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+        <dc:title></dc:title>
+        <dc:date>2010-12-06T20:50:40</dc:date>
+        <dc:description />
+        <dc:source>https://openclipart.org/detail/99685/red-bookmark-by-rg1024</dc:source>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>rg1024</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>book</rdf:li>
+            <rdf:li>bookmark</rdf:li>
+            <rdf:li>reading</rdf:li>
+            <rdf:li>remember</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/publicdomain/zero/1.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+</svg>

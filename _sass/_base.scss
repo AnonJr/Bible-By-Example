@@ -6,13 +6,13 @@ html {
   /* sticky footer fix */
   position: relative;
   min-height: 100%;
-}
-
-body {
   background-image: url("background.svg");
   background-size: cover;
   background-repeat: no-repeat;
   background-attachment: fixed;
+}
+
+body {
   margin: 0;
   padding: 0;
   color: $text-color;
