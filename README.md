@@ -4,4 +4,4 @@ Bible By Example is a podcast dedicated to covering Scripture in a way that enab
 
 The gospel of Jesus Christ is presented calmly, sanely, logically, to the average man, who is a man of sane, logical, common sense.
 
-The site is built on top of GitHub Pages, and is based off of the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/).
+The site is built using [Jekyll](https://jekyllrb.com/), and the theme is based off of the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/).
